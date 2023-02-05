@@ -70,7 +70,6 @@ body{
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 5px 5px 10px black;
-    
   }
   .quadrado img {
     width: 100%;
@@ -97,13 +96,10 @@ body{
     justify-content: space-around;
     background-color: #fff;
     height: 64px;
-
-    
   }
   .menu .selecionado{
     background-color: #e2e2e2;
     border-radius: 20px;
-
   }
   .opcoes{
     transition: ease-in;
